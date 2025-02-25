@@ -54,11 +54,16 @@ Create your migrations.
 | hired | boolean |
 | role_id | integer |
 
+final product looks like this 
+![alt text](<Audition table.png>)
 ### `roles` Table
 
 | Column | Type |
 | --- | --- |
 | character_name | string |
+
+final product looks like this 
+![alt text](<Roles table.png>)
   
 ## Relationship
 
